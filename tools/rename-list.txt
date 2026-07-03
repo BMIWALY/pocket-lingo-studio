@@ -1,0 +1,4 @@
+hallo
+guten-morgen
+guten-tag
+guten-abend
