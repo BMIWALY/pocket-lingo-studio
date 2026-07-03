@@ -1,13 +1,7 @@
-import Flashcard from "@/components/Flashcard/FlashcardTemplate"
+import Sheet from "@/components/Sheet/Sheet"
 
-function App(){
-
-    return(
-
-        <Flashcard/>
-
-    )
-
+function App() {
+    return <Sheet />
 }
 
 export default App
