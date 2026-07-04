@@ -193,3 +193,16 @@ export const greetingCards = [
     image: "/images/greetings/auf-wiedersehen.png",
   },
 ];
+
+// hallo
+// guten-morgen
+// guten-tag
+// guten-abend
+// gute-nacht
+// wie-gehts
+// mir-geht-es-gut
+// danke
+// bitte
+// entschuldigung
+// tschuess
+// auf-wiedersehen

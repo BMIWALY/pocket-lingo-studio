@@ -27,7 +27,8 @@ export default function Sheet({
 
                 <SheetHeader
                     currentSheet={currentSheet}
-                    totalSheets={totalSheets} />
+                    totalSheets={totalSheets}
+                    cards={cards} />
                     
 
                 <div className="flex-1 overflow-hidden">

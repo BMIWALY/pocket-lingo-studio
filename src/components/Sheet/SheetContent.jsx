@@ -1,5 +1,5 @@
 import Flashcard from "@/components/Flashcard/Flashcard";
-// import { greetingCard } from "@/data/greetings";
+
 
 export default function SheetContent({ cards }) {
     return (
