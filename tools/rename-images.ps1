@@ -1,4 +1,4 @@
-$targetFolder = "..\public\images\greetings"
+$targetFolder = "..\public\images\introduction"
 $listFile = ".\rename-list.txt"
 
 # อ่านรายชื่อไฟล์ใหม่

@@ -10,7 +10,7 @@ export default function Flashcard({ data }) {
         : "bg-[var(--pl-primary)] text-[var(--pl-primary)]";
 
     return (
-        <article className="flex h-full flex-col overflow-hidden rounded-[22px] border border-[var(--pl-border)] bg-[var(--pl-surface)] shadow-[0_10px_24px_var(--pl-shadow)]">
+        <article className="flex h-[450px] flex-col overflow-hidden rounded-[22px] border border-[var(--pl-border)] bg-[var(--pl-surface)] shadow-[0_10px_24px_var(--pl-shadow)]">
 
 
             <div className="flex flex-1 gap-4 px-5 pb-4 pt-3">
@@ -22,7 +22,7 @@ export default function Flashcard({ data }) {
                     />
                 </div>
 
-                <div className="flex flex-1 flex-col justify-between ">
+                <div className="flex flex-1 flex-col justify-between h-[300px]">
                     <div className="flex items-center justify-between h-[45px]">
                         <p className="text-[12px] font-bold uppercase tracking-[0.18em] text-[var(--pl-text-secondary)]">
                             {data.tag}
